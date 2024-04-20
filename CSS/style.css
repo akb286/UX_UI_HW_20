@@ -6,13 +6,6 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-.lead {
-  font-size: 3em;
-}
-.about-section {
-  background-color: #f8f9fa;
-  padding: 50px 0;
-}
 
 footer {
   background-color: #343a40;
@@ -22,6 +15,19 @@ footer {
 .button {
   color: purple;
 }
-img {
-  max-width: 40%;
+
+/* FOOTER STYLES*/
+.page-footer {
+  position: fixed;
+  right: 0;
+  bottom: 50px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  z-index: 1;
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
 }
