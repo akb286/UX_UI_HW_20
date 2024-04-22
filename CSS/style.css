@@ -12,26 +12,10 @@ h2 {
 }
 
 footer {
-  background-color: purple;
   color: #ffffff;
   padding: 20px 0;
 }
 
-/* .btn-custom-purple {
-  color: #ffffff; /* Text color */
-  background-color: #800080; /* Purple background color */
-  border-color: #800080; /* Border color */
-}
-
-.btn-custom-purple:hover {
-  background-color: #6a006a; /* Darker purple on hover */
-  border-color: #6a006a; /* Darker border color on hover */
-} */
-
-.custom-container {
-  background-color: #800080; /* Purple background color */
-  padding: 20px; /* Optional: Add padding for better appearance */
-}
 
 
 /* FOOTER STYLES*/
